@@ -1,0 +1,15 @@
+
+! --- Behavior ---
+URxvt.scrollBar: false
+URxvt.saveLines: 10000
+!URxvt.depth: 24
+!uRxvt*transparent: true
+!uRxvt*shading: 40
+URxvt*inheritPixmap: true 
+URxvt*transparent: true 
+! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens 
+URxvt*shading: 40
+
+! --- Font ---
+!URxvt.font: xft:DejaVuSansMNerdFontMono:size=10:style=Regular
+URxvt.font: xft:Maple Mono NF CN ExtraLight:style=ExtraLight:size=10
